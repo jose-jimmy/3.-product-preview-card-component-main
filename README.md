@@ -9,6 +9,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [Overview](#overview)
     - [The challenge](#the-challenge)
     - [Screenshot](#screenshot)
+        - [Desktop View](#desktop-view)
+        - [Mobile View](#mobile-view)
     - [Links](#links)
   - [My process](#my-process)
     - [Built with](#built-with)
@@ -24,13 +26,18 @@ Users should be able to:
 - See hover and focus states for interactive elements
 
 ### Screenshot
+##### Desktop View
 
-![](./screenshot.jpg)
+
+![Desktop View](https://github.com/jose-jimmy/Images-in-readme/assets/88069006/ab0b038e-e3cf-472b-bb3d-d3f2738aa1e4)
+
+##### Mobile View
+![Mobile View](https://github.com/jose-jimmy/Images-in-readme/assets/88069006/2313ab52-917b-420b-ae7f-fae5404c3f41)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/jose-jimmy/Product-preview-card-component)
+- Live Site URL: [Live site URL](https://product-preview-card-zeta-six.vercel.app/)
 
 ## My process
 
