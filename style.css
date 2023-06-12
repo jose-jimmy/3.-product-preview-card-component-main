@@ -15,7 +15,9 @@
     --fw-regular: 500;
     --fw-bold: 700;
 }
-
+/*
+  1. Use a more-intuitive box-sizing model.
+*/
 *,
 *::before,
 *::after {
